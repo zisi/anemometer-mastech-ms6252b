@@ -1,7 +1,3 @@
-# Anomometer Mastech MS6252B
+# I have moved to GitLab! #
 
-It is a decoder for [anemometer Mastech MS6252B](https://sigrok.org/wiki/MASTECH_MS6252B).
-
-## License
-
-Licensed under the [GPLv3](LICENSE).
+All my repositories have been moved to [GitLab](https://gitlab.com/zisi/anemometer-mastech-ms6252b).
